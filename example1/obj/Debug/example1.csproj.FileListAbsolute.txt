@@ -1,0 +1,12 @@
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\bin\Debug\example1.exe.config
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\bin\Debug\example1.exe
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\bin\Debug\example1.pdb
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.csprojResolveAssemblyReference.cache
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.frmMain.resources
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.Properties.Resources.resources
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.csproj.GenerateResource.Cache
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.exe
+C:\Users\vduong\Desktop\Tutorials\Threading\basic\example1\example1\obj\Debug\example1.pdb
+C:\Users\vduong\Source\Repos\NetThreading101\example1\bin\Debug\example1.exe.config
+C:\Users\vduong\Source\Repos\NetThreading101\example1\obj\Debug\example1.exe
+C:\Users\vduong\Source\Repos\NetThreading101\example1\obj\Debug\example1.pdb
